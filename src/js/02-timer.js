@@ -14,7 +14,6 @@ let ms = null;
 const options = {
   enableTime: true,
   time_24hr: true,
-  dateFormat: "Y-m-d HH:MM:SS",
   defaultDate: new Date(),
   minuteIncrement: 1,
   onClose(selectedDates) {
